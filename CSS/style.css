@@ -1,6 +1,4 @@
-/* ========================================================================== */
-/* Global Styles */
-/* ========================================================================== */
+/* Global Styles */
 * {
     box-sizing: border-box;
     font-family: "Exo 2", sans-serif;
@@ -60,9 +58,8 @@ img {
     text-align: center;
 }
 
-/* ========================================================================== */
-/* Navbar */
-/* ========================================================================== */
+
+/* Navbar */
 .navbar {
     background-color: white;
     position: fixed;
@@ -116,9 +113,8 @@ img {
     transform: translate(5px, 5px);
 }
 
-/* ========================================================================== */
-/* Hero Section */
-/* ========================================================================== */
+
+/* Hero Section */
 .hero-parent {
     height: 100vh;
     align-items: center;
@@ -757,7 +753,7 @@ font-size: 12px;
     transform: translate(-50%, -50%);
 }
 
-/* Start fourth Section */
+/* fourth Section */
 .forth-section {
     background-color: white;
     padding-block: 50px;
@@ -923,9 +919,7 @@ font-size: 12px;
 .forth-section .right-section .card.card-3 {
     background-color: #FAF5FF;
 }
-
-/* End fourth Section */
-/* ====================== */
+
 
 /* Start sooter */
 .footer {
